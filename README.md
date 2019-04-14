@@ -5,6 +5,10 @@ zookeeper的可视化管理工具
 
 zookeeper-visualizer是zookeeper的可视化管理工具, 用Java8编写, 使用JAVAFX 2.0进行ui设计
 
+## 使用
+```SHELL
+java -jar .\zookeeper-visualizer.jar
+```
 
 ![image](https://raw.githubusercontent.com/xin497668869/zookeeper-visualizer/master/docs/readme1.jpg)
 
